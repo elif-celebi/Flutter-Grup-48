@@ -55,8 +55,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a8-8c40-3acefe7089e6
+
+
+![sprint 1 1](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/50313df3-3425-44ad-be65-79234b57191a)
+![sprint 1 2](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/4ac292da-83e2-423f-9ac4-41a9cdda8b7f)
+![sprint 1 3](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/d6fdd4d4-286f-4b06-abd4-3244e3dd20b9)
+![sprint 1 4](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/f87607c9-65c8-4d6d-aa49-a6ce737d0cb5)
+![sprint 1 5](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/eb5a7f5d-8769-44d1-8173-a4b8b3ec4505)
+![sprint 1 6](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/3989527d-a3bf-42a1-a522-0937bb0eeaaa)
+![sprint 1 7](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/6fade2a1-dccb-41bc-b9ed-a37b73c269dd)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
