@@ -15,15 +15,46 @@ Flutter Grup 48
 
 ## Ürün İsmi
 
---App--
+--ParkMaster--
 
 ## Ürün Açıklaması
 
-- Otopark Park uygulaması
+- Park Master, bir otopark rezervasyon uygulamasıdır. Şehirde veya şehir dışında otopark sıkıntısı yaşamadan rahatça yolculuk yapmayı kolaylaştırır. Otopark rezervasyon uygulası sayesinde, hedeflenilen konumlara ulaşmadan önce en uygun otoparkları bulabilir, rezervasyon yapabilir ve yolculuğunuz sırasında otopark yer durumu hakkında bilgi alabilirsiniz. Hem sürücüler hem de otopark sahipleri için özel olarak tasarlanmış kullanıcı dostu arayüzlerle, park sorunlarına son veriyoruz. Bu uygulama ile sürücüler, yolculuk sırasında park yeri bulma derdine son verirken otopark sahipleri de otoparklarını daha verimli bir şekilde yönetebilecekler.
+
 
 ## Ürün Özellikleri
 
-- Otopark servisi 
+Sürücüler İçin:
+
+- Kolay Rezervasyon: Gitmek istediğiniz yerin yakınındaki otoparklara saatlik veya belirli zaman aralıklarına göre rezervasyon yapın.
+- Gerçek Zamanlı Yer Bilgisi: Yolculuğunuz sırasında hedeflediğiniz otoparkta yer olup olmadığını anında öğrenin.
+- Kullanıcı Yorumları: Otoparkları seçmeden önce diğer kullanıcıların yorumlarını okuyun ve otopark hakkında bilgi edinin.
+- Hatırlatmalar: Rezervasyon saatiniz yaklaşırken bildirimler alın ve otoparka zamanında ulaşın.
+- Favori Otoparklar: Sık kullandığınız otoparkları favorilere ekleyin ve kolayca erişin.
+- Profil Yönetimi: Kişisel bilgilerinizi ve ödeme yöntemlerinizi yönetin, rezervasyon geçmişinizi görüntüleyin.
+
+Otopark Sahipleri İçin:
+
+- Kolay Yönetim: Otoparkınızın doluluk durumunu anında güncelleyerek, rezervasyonları ve mevcut yer sayısını takip edin.
+- Rezervasyon Takibi: Güncel, geçmiş ve iptal olan rezervasyonları kolayca yönetin.
+- Yorum ve Değerlendirme: Otoparkınıza gelen kullanıcıların yorumlarını ve puanlamalarını görüntüleyin, müşteri memnuniyetini artırın.
+
+Özel Sayfalar
+
+- Seçim Ekranı: Sürücü veya otopark sahibi olarak kaydolunabilir. Her iki kullanıcı türü için farklı ve özelleştirilmiş arayüzler içerir.
+- Login ve Sign Up Ekranları: Basit ve güvenli giriş/kayıt işlemleri sağlar.
+- Ana Ekran: Yakındaki otoparkları harita üzerinde görüntüler, filtreleme ve sıralama seçenekleri ile en uygun otoparkı bulur.
+- Rezervasyon Ekranı: Şehir ve tarih bilgilerine göre uygun otoparkları listeler ve rezervasyon imkanı sağlat.
+- Hesabım ve Rezervasyonlarım: Profil bilgileri güncellenebilir, rezervasyon geçmişi görüntülenebilir ve aktif rezervasyonlar yönetilebilir.
+- Yolculuk Sayfası: Hit the road butonuyla Google Maps üzerinden yol tarifi alınabilir ve yolda çevredeki otoparklar görüntülenir.
+- Bildirimler: Otopark durumu ve rezervasyon bildirimleri takip edilebilir.
+
+Ek Özellikler
+
+- Online ve Offline Ödeme Seçenekleri: Rezervasyonlar online ödenebilir veya otoparka vardıldığında ödeme yapılabilir.
+- Dil Seçeneği: Farklı dillerde kullanım imkanı sağlar (ilk etapta dil değiştirme özelliği olmasa da, ileride eklenebilir).
+- Gelişmiş Arama ve Filtreleme: Manuel veya konum tabanlı arama seçenekleri ile en uygun otoparkı hızlıca bulur.
+- Şikayet ve Geri Bildirim: Şirketin mail adresi üzerinden şikayetler, istekler ve yorumlar iletilebilir.
 
 ## Hedef Kitle
 
@@ -32,7 +63,6 @@ Flutter Grup 48
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
 ---
 
@@ -46,16 +76,12 @@ Flutter Grup 48
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16117435/Flutter.48.Toplanti.Raporlari.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
+
+- **Ürün Durumu**: Ekran görüntüleri ve Video:
 https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a8-8c40-3acefe7089e6
 
 
@@ -69,12 +95,8 @@ https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a
 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında görüşülmüştür. Ödeme yöntemlerinin son haline karar verilmesi ertelenmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Buğrahan Efe.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
--**Diğer Notlar**:
-- N/A
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
+  - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
