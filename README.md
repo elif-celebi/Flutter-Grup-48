@@ -51,7 +51,6 @@ Otopark Sahipleri İçin:
 
 Ek Özellikler
 
-- Online ve Offline Ödeme Seçenekleri: Rezervasyonlar online ödenebilir veya otoparka vardıldığında ödeme yapılabilir.
 - Dil Seçeneği: Farklı dillerde kullanım imkanı sağlar (ilk etapta dil değiştirme özelliği olmasa da, ileride eklenebilir).
 - Gelişmiş Arama ve Filtreleme: Manuel veya konum tabanlı arama seçenekleri ile en uygun otoparkı hızlıca bulur.
 - Şikayet ve Geri Bildirim: Şirketin mail adresi üzerinden şikayetler, istekler ve yorumlar iletilebilir.
