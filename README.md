@@ -70,7 +70,7 @@ https://miro.com/app/board/uXjVK1dR6CA=/?share_link_id=253898161274
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 127 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan olmasına, geri kalan sprint'lerin eşit derece puanlanarak bölünmesine karar verilmiştir.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 157 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
