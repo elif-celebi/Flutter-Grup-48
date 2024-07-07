@@ -87,16 +87,16 @@ https://miro.com/app/board/uXjVK1dR6CA=/?share_link_id=253898161274
 
   
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
-https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a8-8c40-3acefe7089e6
 
+![IMG-20240707-WA0043](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/3f86bfce-5ec6-4b8e-8c7a-f6e294c09197)
+![IMG-20240707-WA0044](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/a420afab-c6b2-42c0-9ad5-f2f7240605b1)
+![IMG-20240706-WA0020](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/e943d464-e6bb-4fb1-bdee-fa98abcb04c6)
+![IMG-20240706-WA0019](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/5863fa13-a588-4bfa-a18b-a6a3ecd2f296)
+![IMG-20240706-WA0018](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/f0db9f5d-7422-4a70-92d0-ead977104988)
+![IMG-20240706-WA0015](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/4ec17d41-e9bc-4360-b045-fe58896875a9)
+![IMG-20240706-WA0014](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/43873f46-5365-4161-bdd5-05b5aded437a)
 
-![sprint 1 1](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/50313df3-3425-44ad-be65-79234b57191a)
-![sprint 1 2](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/4ac292da-83e2-423f-9ac4-41a9cdda8b7f)
-![sprint 1 3](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/d6fdd4d4-286f-4b06-abd4-3244e3dd20b9)
-![sprint 1 4](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/f87607c9-65c8-4d6d-aa49-a6ce737d0cb5)
-![sprint 1 5](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/eb5a7f5d-8769-44d1-8173-a4b8b3ec4505)
-![sprint 1 6](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/3989527d-a3bf-42a1-a522-0937bb0eeaaa)
-![sprint 1 7](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/6fade2a1-dccb-41bc-b9ed-a37b73c269dd)
+https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/a176a0e7-9bfa-4678-b8b4-c65b08b685ae
 
 
 - **Sprint Review**: 
