@@ -76,8 +76,8 @@ Ek Özellikler
 
 - **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16117435/Flutter.48.Toplanti.Raporlari.docx)
 
-- **Sprint board update**: Sprint board videosu:
-https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/20f1382f-c3a2-4dd0-bf28-429604bb81c2
+- **Sprint board update**: Sprint board Screenshotları:
+  
 
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a8-8c40-3acefe7089e6
