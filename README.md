@@ -41,7 +41,6 @@ Otopark Sahipleri İçin:
 
 Özel Sayfalar
 
-- Seçim Ekranı: Sürücü veya otopark sahibi olarak kaydolunabilir.
 - Login ve Sign Up Ekranları: Basit ve güvenli giriş/kayıt işlemleri sağlar.
 - Ana Ekran: Yakındaki otoparkları harita üzerinde görüntüler, filtreleme ve sıralama seçenekleri ile en uygun otoparkı bulur.
 - Rezervasyon Ekranı: Şehir ve tarih bilgilerine göre uygun otoparkları listeler ve rezervasyon imkanı sağlar.
