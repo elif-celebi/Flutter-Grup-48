@@ -60,7 +60,7 @@ Ek Özellikler
 - Otopark Sahipleri
 
 ## Product Backlog URL
-
+https://miro.com/app/board/uXjVK1dR6CA=/?share_link_id=253898161274
 
 ---
 
