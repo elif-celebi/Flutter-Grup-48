@@ -70,7 +70,7 @@ Ek Özellikler
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 127 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 514 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in 127 puan, geri kalan spint'lerin 129 puan olacak şekilde düzenlenmesine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 514 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan olmasına, geri kalan sprint'lerin eşit derece puanlanarak bölünmesine karar verilmiştir.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
