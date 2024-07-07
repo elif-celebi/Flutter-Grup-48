@@ -94,7 +94,7 @@ https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a
 
 
 - **Sprint Review**: 
-Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında görüşülmüştür. Ödeme yöntemlerinin son haline karar verilmesi ertelenmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Buğrahan Efe.
+Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında görüşülmüştür. Ödeme yöntemlerinin son haline karar verilmesi ertelenmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
