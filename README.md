@@ -77,8 +77,15 @@ Ek Özellikler
 - **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16117435/Flutter.48.Toplanti.Raporlari.docx)
 
 - **Sprint board update**: Sprint board Screenshotları:
-  
+![IMG-20240707-WA0024](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/e129f45f-239a-4221-8fb1-74fccc3a8994)
+![IMG-20240707-WA0025](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/3354708b-23b1-4521-bd01-1a9c6bdc0e09)
+![IMG-20240707-WA0023](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/1e93f0fb-9f04-4918-bc97-6005eaac903f)
+![IMG-20240707-WA0022](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/2246cee8-4ac5-4eb3-80d9-5ad6daba7170)
+![IMG-20240707-WA0021](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/55a56359-b2d5-4d30-9886-4e5ebfd7e2d9)
+![IMG-20240707-WA0020](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/7902ef82-b98c-4006-bd3e-e2309add1936)
+![IMG-20240707-WA0019](https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/c7af6e54-a03a-44d5-bb8c-0b8095854d30)
 
+  
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 https://github.com/elif-celebi/Flutter-Grup-48/assets/98609411/25514b43-df63-41a8-8c40-3acefe7089e6
 
