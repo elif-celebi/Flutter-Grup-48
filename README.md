@@ -41,12 +41,12 @@ Otopark Sahipleri İçin:
 
 Özel Sayfalar
 
-- Seçim Ekranı: Sürücü veya otopark sahibi olarak kaydolunabilir. Her iki kullanıcı türü için farklı ve özelleştirilmiş arayüzler içerir.
+- Seçim Ekranı: Sürücü veya otopark sahibi olarak kaydolunabilir.
 - Login ve Sign Up Ekranları: Basit ve güvenli giriş/kayıt işlemleri sağlar.
 - Ana Ekran: Yakındaki otoparkları harita üzerinde görüntüler, filtreleme ve sıralama seçenekleri ile en uygun otoparkı bulur.
-- Rezervasyon Ekranı: Şehir ve tarih bilgilerine göre uygun otoparkları listeler ve rezervasyon imkanı sağlat.
+- Rezervasyon Ekranı: Şehir ve tarih bilgilerine göre uygun otoparkları listeler ve rezervasyon imkanı sağlar.
 - Hesabım ve Rezervasyonlarım: Profil bilgileri güncellenebilir, rezervasyon geçmişi görüntülenebilir ve aktif rezervasyonlar yönetilebilir.
-- Yolculuk Sayfası: Hit the road butonuyla Google Maps üzerinden yol tarifi alınabilir ve yolda çevredeki otoparklar görüntülenir.
+- Yolculuk Sayfası: Hit the Road butonuyla Google Maps üzerinden yol tarifi alınabilir ve yolda çevredeki otoparklar görüntülenir.
 - Bildirimler: Otopark durumu ve rezervasyon bildirimleri takip edilebilir.
 
 Ek Özellikler
@@ -58,7 +58,7 @@ Ek Özellikler
 ## Hedef Kitle
 
 - Sürücüler
-- Otoparklar
+- Otopark Sahipleri
 
 ## Product Backlog URL
 
