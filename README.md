@@ -118,6 +118,7 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
 - **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+[Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16325280/Flutter.48.Toplanti.Raporlari.docx)
 
 - **Sprint board update**: Sprint board Screenshotları:
 
@@ -125,13 +126,11 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
   
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
-
-
-
-
-
 - **Sprint Review**: 
-
+Alınan kararlar: Ürünün tasarımlarının iyileştirilmesine karar verilmiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Ürünün yazılım kısmı test edilmiştir.  Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
 
 - **Sprint Retrospective:**
- 
+  - Backlog planlamasında değişikliğe gidilmesine karar verilmiştir.
+  - Ürünün özelliklerinin geliştirilmesine ve isminin kararlaştırılmasına tekrar düşünülmesine karar verilmiştir.
+
+
