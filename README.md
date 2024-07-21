@@ -122,7 +122,6 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 
 - **Sprint board update**: Sprint board Screenshotı:
 
-![IMG-20240721-WA0029](https://github.com/user-attachments/assets/af8a38e8-7273-41af-91cc-81a63a63c449
 
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
