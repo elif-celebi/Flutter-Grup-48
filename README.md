@@ -125,11 +125,28 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
+![ürün ss 2 1](https://github.com/user-attachments/assets/f51b486b-7341-42f6-acb9-8fcd26c6cac9)
+![ürün ss 2 2](https://github.com/user-attachments/assets/0fac9386-b4c6-45df-8fdc-6cbe08f4f53e)
+![ürün ss 2 3](https://github.com/user-attachments/assets/63041136-2e3c-4a26-b936-69c10b9ff2ae)
+![ürün ss 2 4](https://github.com/user-attachments/assets/c6c07e0f-fa46-4010-b790-786bd94fe826)
+![ürün ss 2 5](https://github.com/user-attachments/assets/1d29ed72-4c63-483a-9926-447997063520)
+![ürün ss 2 6](https://github.com/user-attachments/assets/f2c8355b-d91d-4548-a014-ce39c3de2ff1)
+![ürün ss 2 7](https://github.com/user-attachments/assets/9fe60487-a6c8-43b5-a26a-9f1e8d485eb8)
+![ürün ss 2 8](https://github.com/user-attachments/assets/728eeaf9-7b58-4629-9dc5-64c48edaeb9b)
+![ürün ss 2 9](https://github.com/user-attachments/assets/129a4859-4812-47ea-9dbd-991d553e54b8)
+![ürün ss 2 10](https://github.com/user-attachments/assets/f226cf92-9bda-4580-aec9-c620b63255d5)
+![ürün ss 2 11](https://github.com/user-attachments/assets/68222928-28de-4fe8-9e19-f0a0e0383cee)
+![ürün ss 2 12](https://github.com/user-attachments/assets/f875cc80-5dac-4916-a27c-e2f31f1bc086)
+![ürün ss 2 13](https://github.com/user-attachments/assets/2a9a3ab3-f1cf-453a-8c9b-c7a845c872b5)
+
+https://github.com/user-attachments/assets/64419178-4335-4748-a5e4-96ceb5635cea
+
 - **Sprint Review**: 
-Alınan kararlar: Ürünün tasarımlarının iyileştirilmesine karar verilmiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Ürünün yazılım kısmı test edilmiştir.  Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
+Alınan kararlar: Ürünün tasarımlarının iyileştirilmesine karar verilmiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Ürünün yazılım kısmı test edilmiştir. Backlog planlamasında değişikliğe gidilmesine karar verilmiştir. Ürünün özelliklerinin geliştirilmesine ve ürün isminin tekrar düşünülmesine karar verilmiştir.
+Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
 
 - **Sprint Retrospective:**
-  - Backlog planlamasında değişikliğe gidilmesine karar verilmiştir.
-  - Ürünün özelliklerinin geliştirilmesine ve isminin kararlaştırılmasına tekrar düşünülmesine karar verilmiştir.
+  - Backlog planlamasının ekip üyelerinin müsaitlik durumuna göre revize edilmesine karar verilmiştir.
+  - Ekip üyeleri arasında iş bölümünün revize edilmesine karar verilmiştir.
 
 
