@@ -121,7 +121,7 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16325280/Flutter.48.Toplanti.Raporlari.docx)
 
 - **Sprint board update**: Sprint board Screenshotı:
-
+![miro 2](https://github.com/user-attachments/assets/06735881-7fad-4048-83dd-19ab5ddf5171)
 
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
