@@ -120,10 +120,9 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 - **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16325280/Flutter.48.Toplanti.Raporlari.docx)
 
-- **Sprint board update**: Sprint board Screenshotları:
+- **Sprint board update**: Sprint board Screenshotı:
+![IMG-20240721-WA0029](https://github.com/user-attachments/assets/af8a38e8-7273-41af-91cc-81a63a63c449
 
-
-  
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
 - **Sprint Review**: 
