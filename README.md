@@ -105,3 +105,33 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
   - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
+
+
+# Sprint 2
+
+- **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemektedir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 230 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 157 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+- **Sprint board update**: Sprint board Screenshotları:
+
+
+  
+- **Ürün Durumu**: Ekran görüntüleri ve Video:
+
+
+
+
+
+
+- **Sprint Review**: 
+
+
+- **Sprint Retrospective:**
+ 
