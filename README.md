@@ -200,7 +200,7 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 
 - **Sprint board update**: Sprint board Screenshotları:
 
-
+![backlog 3](https://github.com/user-attachments/assets/2874d61e-3d98-4a08-a100-f25e79048155)
   
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
