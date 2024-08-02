@@ -113,7 +113,7 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 230 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 157 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken backlog 567 puan olarak revize edilmiştir. İlk sprint'in 127 puan, ikinci sprint'in 120 puan, 3. sprintin 250 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
