@@ -152,11 +152,11 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 
 # Sprint 3
 
-- **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemektedir. 
+- **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemiştir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 127 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 250
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 157 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 250 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -172,8 +172,7 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 
 
 - **Sprint Review**: 
-Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında görüşülmüştür. Ödeme yöntemlerinin son haline karar verilmesi ertelenmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
+Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ürün son halini almıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
   - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
