@@ -224,6 +224,11 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 ![notifications_screen](https://github.com/user-attachments/assets/b1665eb0-66dd-4c89-948d-8faf5f3f51ef)
 ![parking_details_1](https://github.com/user-attachments/assets/89e8c12c-957a-4667-ac52-6cc8bf5e200e)
 ![parking_details_2](https://github.com/user-attachments/assets/c071c489-eb70-48dd-a714-3b86699da107)
+![sprint 3 1](https://github.com/user-attachments/assets/e8e18d9f-7dfa-4b55-9bfe-6d340ac96bc3)
+![sprint 3 2](https://github.com/user-attachments/assets/8c1fe8b7-e39c-4d2c-8017-aba97e5cd8ea)
+![sprint 3 3](https://github.com/user-attachments/assets/b00d2bc8-a6a7-4918-9a50-05dc20e6e3e2)
+
+https://github.com/user-attachments/assets/76103545-b47c-4128-b7d2-444f9f4326fb
 
 - **Sprint Review**: 
 Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ürün son halini almıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
