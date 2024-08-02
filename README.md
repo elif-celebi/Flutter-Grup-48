@@ -10,44 +10,12 @@ Flutter Grup 48
 
 ## Takım Elemanları
 
- <table>
-    <tr>
-      <th>Name</th>
-      <th>Title</th>
-      <th>Socials</th>
-    </tr>
-    <tr>
-      <td>Elif Çelebi</td>
-      <td>Scrum Master</td>
-      <td>
-        <a href="https://github.com/elif-celebi" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/elif-celebi-/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Ece Önbaş</td>
-      <td>Product Owner</td>
-      <td>
-        <a href="http://www.linkedin.com/in/eceonbas" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Yusuf Emre Öner</td>
-      <td>Developer</td>
-      <td>
-        <a href="https://github.com/yuxufemre" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/yusuf-emre-oner/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>Burak Başlık</td>
-      <td>Developer</td>
-      <td>
-        <a href="https://github.com/burakbaslik" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/burakbaslik448" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-      </td>
-  </tr>
-  </table>
+| Name        | Title                                      | LinkedIn                                    | GitHub                                     |
+|-------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------|
+| Elif Çelebi | Scrum Master   | [Elif Çelebi LinkedIn](https://www.linkedin.com/in/elif-celebi-/) |  [Elif Çelebi GitHub](https://github.com/elif-celebi)  |
+| Ece Önbaş | Product Owner | [Ece Önbaş LinkedIn](http://www.linkedin.com/in/eceonbas) | 
+| Yusuf Emre Öner |Developer| [Yusuf Emre Öner LinkedIn](https://www.linkedin.com/in/yusuf-emre-oner/) | [Yusuf Emre Öner GitHub](https://github.com/yuxufemre) |
+| Burak Başlık  |Developer| [Burak Başlık LinkedIn](https://www.linkedin.com/in/burakbaslik448) | [Burak Başlık GitHub](https://github.com/burakbaslik) |
 
 ## Ürün İsmi
 
