@@ -156,7 +156,7 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 250
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 250 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken backlog 567 puan olarak revize edilmiştir. İlk sprint'in 127 puan, ikinci sprint'in 120 puan, 3. sprintin 250 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -175,4 +175,4 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ürün son halini almıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
 
 - **Sprint Retrospective:**
-  - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
+  - Çıkan ürünün teslim öncesi tekrar test edilmesine karar verilmiştir.
