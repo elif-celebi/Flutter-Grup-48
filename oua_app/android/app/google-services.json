@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637003328797",
+    "project_id": "oua-app-aa753",
+    "storage_bucket": "oua-app-aa753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637003328797:android:9806a344fa3144fee1c5f4",
+        "android_client_info": {
+          "package_name": "com.example.oua_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybxXINiogb8YYX53vhEWkqohAamsxKYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
