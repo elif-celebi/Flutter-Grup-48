@@ -220,7 +220,7 @@ Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ür
 
 
 # **Uygulamanın son hali**
-
+Bu video uygulamanın son halini hızlıca görmeniz için çektiğimiz ekstra bir videodur. Forma linkini koyduğumuz video değildir. Asıl videomuz YouTube'tadır.
 
 
 https://github.com/user-attachments/assets/239cd1e2-6ce9-43e8-bdf6-789a84c39028
