@@ -217,3 +217,11 @@ Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ür
   - Çıkan ürünün teslim öncesi tekrar test edilmesine karar verilmiştir.
 
 </details>
+
+
+# **Uygulamanın son hali**
+
+
+
+https://github.com/user-attachments/assets/239cd1e2-6ce9-43e8-bdf6-789a84c39028
+
