@@ -204,8 +204,26 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
   
 - **Ürün Durumu**: Ekran görüntüleri ve Video:
 
-
-
+![add_new_card_screen](https://github.com/user-attachments/assets/a0b4ac70-8fc5-48d0-98b6-f35934bd1a0a)
+![documents_screen](https://github.com/user-attachments/assets/a247468a-9d80-45e1-bf79-2407ea20ea38)
+![edit_profile_screen](https://github.com/user-attachments/assets/e7bf52bc-df3d-42c1-b5d0-2be03b36d327)
+![favourites_screen](https://github.com/user-attachments/assets/90dc204c-b49e-44e0-bded-b85800af395d)
+![filters](https://github.com/user-attachments/assets/7702be12-0d9a-416e-b2bb-45c6532dc1aa)
+![hamburger_menu](https://github.com/user-attachments/assets/083f33f6-db54-437c-84b0-cdb56a15ec90)
+![hit_the_road_screen](https://github.com/user-attachments/assets/4e465b5a-e2dd-4b65-8ad4-c30d59629458)
+![home_page](https://github.com/user-attachments/assets/257f4ecb-9141-4c98-a38a-3a7cce2cf671)
+![home_page_booknow_popup](https://github.com/user-attachments/assets/89f8be36-f0a2-44dc-affd-e3430cd1ff23)
+![login](https://github.com/user-attachments/assets/9aeb7c62-6b62-4141-a5e4-3dca83988745)
+![make_complaints_screen](https://github.com/user-attachments/assets/810b2b4e-29c1-410f-90ed-0eed25ab3f8a)
+![manage_your_parking_lot](https://github.com/user-attachments/assets/edfe8a94-c2fa-496e-b923-20ef168d89ee)
+![my_booking_active](https://github.com/user-attachments/assets/290f6b04-5cf3-42fa-8b51-c2249dd1d7ee)
+![my_booking_cancelled](https://github.com/user-attachments/assets/c98b670b-1b09-43a8-9dba-62cef78506f8)
+![my_booking_completed](https://github.com/user-attachments/assets/9deb388e-8905-4a86-995c-3100e4dd4fb2)
+![my_parking_lot_profile_1](https://github.com/user-attachments/assets/20ff37bc-8456-4057-8ce0-0ce3c76c90cf)
+![my_parking_lot_profile_2](https://github.com/user-attachments/assets/417ecf7c-0e0d-4e78-a470-018302cf12d6)
+![notifications_screen](https://github.com/user-attachments/assets/b1665eb0-66dd-4c89-948d-8faf5f3f51ef)
+![parking_details_1](https://github.com/user-attachments/assets/89e8c12c-957a-4667-ac52-6cc8bf5e200e)
+![parking_details_2](https://github.com/user-attachments/assets/c071c489-eb70-48dd-a714-3b86699da107)
 
 - **Sprint Review**: 
 Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ürün son halini almıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
