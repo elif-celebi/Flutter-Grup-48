@@ -196,7 +196,7 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16117435/Flutter.48.Toplanti.Raporlari.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16474744/Flutter.48.Toplanti.Raporlari.docx)
 
 - **Sprint board update**: Sprint board Screenshotları:
 
