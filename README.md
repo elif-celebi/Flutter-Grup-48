@@ -8,10 +8,45 @@ Flutter Grup 48
 
 ## Takım Elemanları
 
-- Ece Önbaş: Product Owner
-- Elif Çelebi: Scrum Master
-- Burak Başlık: Team Member/Developer
-- Yusuf Emre Öner: Team Member/Developer
+ <table>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Socials</th>
+    </tr>
+    <tr>
+      <td>Elif Çelebi</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="https://github.com/elif-celebi" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/elif-celebi-/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Ece Önbaş</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="http://www.linkedin.com/in/eceonbas" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Yusuf Emre Öner</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/yuxufemre" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/yusuf-emre-oner/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Burak Başlık</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/burakbaslik" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/burakbaslik448" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+  </tr>
+  </table>
 
 ## Ürün İsmi
 
