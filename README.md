@@ -1,6 +1,8 @@
 # Flutter-Grup-48
 
-![ParkMaster](https://github.com/user-attachments/assets/27ce4ce7-eeb6-4c73-9728-3e5efe629724)
+<div align="center">
+	<img height="150" src="https://github.com/user-attachments/assets/27ce4ce7-eeb6-4c73-9728-3e5efe629724" alt="Firebase" title="Firebase" />
+</div>
 
 # **Takım İsmi**
 
