@@ -67,6 +67,9 @@ Ek Özellikler
 https://miro.com/app/board/uXjVK1dR6CA=/?share_link_id=253898161274
 
 ---
+<details>
+  <summary><strong>Sprint 1</strong></summary>
+
 
 # Sprint 1
 
@@ -110,7 +113,11 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
   - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
 
+</details>
 
+<details>
+  <summary><strong>Sprint 2</strong></summary>
+  
 # Sprint 2
 
 - **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemektedir. 
@@ -152,8 +159,11 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
 - **Sprint Retrospective:**
   - Backlog planlamasının ekip üyelerinin müsaitlik durumuna göre revize edilmesine karar verilmiştir.
   - Ekip üyeleri arasında iş bölümünün revize edilmesine karar verilmiştir.
+</details>
 
-
+<details>
+  <summary><strong>Sprint 3</strong></summary>
+  
 # Sprint 3
 
 - **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemiştir.
@@ -203,3 +213,5 @@ Alınan kararlar: Ürünün videosu hakkında düzenlemeler yapılmıştır. Ür
 
 - **Sprint Retrospective:**
   - Çıkan ürünün teslim öncesi tekrar test edilmesine karar verilmiştir.
+
+</details>
