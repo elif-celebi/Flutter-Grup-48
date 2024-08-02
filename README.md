@@ -150,3 +150,30 @@ Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Bu
   - Ekip üyeleri arasında iş bölümünün revize edilmesine karar verilmiştir.
 
 
+# Sprint 3
+
+- **Sprint Notları**: Sprint içinde değişen bir durum yoktur. Sorunsuz ilerlemektedir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 127 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 512 puanlık backlog bulunmaktadır. İlk sprint'in 127 puan, ikinci sprint'in 230 puan, 3. sprintin 157 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16117435/Flutter.48.Toplanti.Raporlari.docx)
+
+- **Sprint board update**: Sprint board Screenshotları:
+
+
+  
+- **Ürün Durumu**: Ekran görüntüleri ve Video:
+
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında görüşülmüştür. Ödeme yöntemlerinin son haline karar verilmesi ertelenmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Elif Çelebi, Ece Önbaş, Yusuf Emre Öner, Burak Başlık.
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmasına karar verilmiştir.
+  - Ürünün özellikleri ve ismi hakkında tekrar düşünülmesine karar verilmiştir.
