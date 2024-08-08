@@ -128,7 +128,7 @@ Alınan kararlar: Uygulama içerisinde yapılacak ödeme işlemleri hakkında g�
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken backlog 567 puan olarak revize edilmiştir. İlk sprint'in 127 puan, ikinci sprint'in 120 puan, 3. sprintin 250 puan olmasına karar verilmiştir. Puan dağılımı ekibin yoğunluk durumu dikkate alınarak yapılmıştır.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı,toplam puanın yarısından az tutulmuştur. 
 
 - **Daily Scrum**: Daily Scrum toplantılarının çevirimiçi uygulamalar ve Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 [Flutter 48 Toplantı Raporları.docx](https://github.com/user-attachments/files/16325280/Flutter.48.Toplanti.Raporlari.docx)
