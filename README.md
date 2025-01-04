@@ -25,7 +25,7 @@ Flutter Grup 48
 
 ## Ürün Açıklaması
 
-- Park Master, bir otopark rezervasyon uygulamasıdır. Şehirde veya şehir dışında otopark sıkıntısı yaşamadan rahatça yolculuk yapmayı kolaylaştırır. Otopark rezervasyon uygulası sayesinde, hedeflenilen konumlara ulaşmadan önce en uygun otoparkları bulabilir, rezervasyon yapabilir ve yolculuğunuz sırasında otopark yer durumu hakkında bilgi alabilirsiniz. Hem sürücüler hem de otopark sahipleri için özel olarak tasarlanmış kullanıcı dostu arayüzlerle, park sorunlarına son verir. Bu uygulama ile sürücüler, yolculuk sırasında park yeri bulma derdine son verirken otopark sahipleri de otoparklarını daha verimli bir şekilde yönetebilecekler.
+- Park Master, bir otopark rezervasyon uygulamasıdır. Şehirde veya şehir dışında otopark sıkıntısı yaşamadan rahatça yolculuk yapmayı kolaylaştırır. Otopark rezervasyon uygulaması sayesinde, hedeflenilen konumlara ulaşmadan önce en uygun otoparkları bulabilir, rezervasyon yapabilir ve yolculuğunuz sırasında otopark yer durumu hakkında bilgi alabilirsiniz. Hem sürücüler hem de otopark sahipleri için özel olarak tasarlanmış kullanıcı dostu arayüzlerle, park sorunlarına son verir. Bu uygulama ile sürücüler, yolculuk sırasında park yeri bulma derdine son verirken otopark sahipleri de otoparklarını daha verimli bir şekilde yönetebilecekler.
 
 
 ## Ürün Özellikleri
